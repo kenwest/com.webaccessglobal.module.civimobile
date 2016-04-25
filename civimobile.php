@@ -30,7 +30,7 @@ function civimobile_civicrm_navigationMenu( &$params ) {
       'label'      => 'CiviMobile',
       'name'       => 'CiviMobile',
       'url'        => 'civicrm/mobile',
-      'permission' => 'administer CiviCRM',
+      'permission' => 'access CiviCRM',
       'operator'   => null,
       'separator'  => null,
       'parentID'   => 2,
